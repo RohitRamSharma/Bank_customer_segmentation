@@ -10,5 +10,5 @@ Customer segmentation is the process of dividing a customer dataset into specifi
 ### Dataset
 The dataset consists of 1 Million+ transaction by over 800K customers for a bank in India. The data contains information such as - customer age (DOB), location, gender, account balance at the time of the transaction, transaction details, transaction amount, etc.
 
-### Collaborated by-
+### Collaborated by-  
 Vaibhav Singh Panwar https://github.com/PanwaR1010
